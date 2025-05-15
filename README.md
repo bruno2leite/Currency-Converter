@@ -1,5 +1,8 @@
 # Currency Converter API
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 This is a REST API project developed in Java using the Spring Boot framework.  
 The main goal of this application is to convert currency amounts from a source currency to a target currency.
 
